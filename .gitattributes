@@ -1,6 +1,7 @@
 # Auto detect text files
-* -text
+* text=auto
 # Perform LF normalization on shell scripts (required when used as ENTRYPOINT in Docker)
 *.sh text eol=lf
 # Force markdown files to be text
 
+/tags/* text eol=lf
