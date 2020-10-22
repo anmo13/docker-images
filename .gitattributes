@@ -4,4 +4,4 @@
 *.sh text eol=lf
 # Force markdown files to be text
 
-/tags/* text eol=lf
+/tags/*.md text eol=lf
