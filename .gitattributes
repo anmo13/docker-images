@@ -5,4 +5,4 @@
 # Force markdown files to be text
 *.md text
 
-/tags/sitecore-tags.md eol=lf
+/tags/** text eol=lf
