@@ -2,6 +2,6 @@
 * text=auto
 # Perform LF normalization on shell scripts (required when used as ENTRYPOINT in Docker)
 *.sh text eol=lf
-/tags/sitecore-tags.md text eol=lf
+/tags/sitecore-tags.md eol=lf
 # Force markdown files to be text
 *.md text
